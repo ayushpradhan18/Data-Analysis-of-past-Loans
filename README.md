@@ -7,7 +7,7 @@ This repository is a hands-on project performed during the Machine Learning cour
 
 * Jupyter Notebook
 * Python 3
-* Python libraries: Pandas, Numby, Matplotlib, Sklearn 
+* Python libraries: Pandas, Numpy, Matplotlib, Sklearn 
 
 ### Installing
 
